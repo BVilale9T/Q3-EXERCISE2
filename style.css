@@ -1,0 +1,20 @@
+body{
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #FAF866;
+}
+
+img{
+	height: 400px;
+	width: 500px;
+	border-radius: 10px;
+	border: solid black 3px;
+	background-color: white;
+}
+
+#button{
+	background-color: white;
+	border-radius: 9px;
+	width: 10%
+}
+
